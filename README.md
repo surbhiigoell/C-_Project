@@ -1,5 +1,5 @@
 # C-_project
-this is a simple C++ project made by me in class 12th.
+this is a C++ project made by me in class 12th.
 
 the project is about tour and travel management system.
 it has a command line interface.
