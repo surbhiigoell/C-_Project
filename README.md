@@ -1,7 +1,7 @@
-# C-_project
-this is a C++ project made by me in class 12th.
+# Travellado
+A CLI project implementing travel management system.
 
-the project is about tour and travel management system.
+It is developed using #C++
 it has a command line interface.
 
 this project uses basic concepts of C++ like-
